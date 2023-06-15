@@ -10,7 +10,7 @@ export default function AboutTheProject() {
             <p>
               React Films is a film portal that will provide information about
               films and the films themselves. Developed by computer science and
-              web development student: Pedro Tolentino Gontijo for Maked with
+              web development student: Matheus Henrique Vaz for Maked with
               ReactJS, ViteJS, TypeScript, ReactBootsrap, ReactIcons,
               React-Router-Dom, React-Scroll and Styled-Components.
             </p>
